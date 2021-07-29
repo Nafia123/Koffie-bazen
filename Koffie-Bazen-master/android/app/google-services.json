@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "719918113507",
+    "firebase_url": "https://koffiechefs.firebaseio.com",
+    "project_id": "koffiechefs",
+    "storage_bucket": "koffiechefs.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:719918113507:android:443fd67bb8a1f803fc9bd6",
+        "android_client_info": {
+          "package_name": "com.koffiechefs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "719918113507-ek6er1raenh05agb3qs8cdkqjra0lo92.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfTIKAYTHk9_Ygx6HVLIlcWPi4as2FP9I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "719918113507-ek6er1raenh05agb3qs8cdkqjra0lo92.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
